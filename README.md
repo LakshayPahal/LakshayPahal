@@ -84,21 +84,22 @@ I'm currently applying my skills as a **Software Development Engineer Intern at 
 
 ---
 
-### 🔥 GitHub Stats & Trophies
+
+### 🏆 GitHub Stats & Trophies
 
 <div align="center">
 
-| 🔥 Streak Stats | 📊 General Stats |
-| :---: | :---: |
-| <img src="https://github-readme-streak-stats.vercel.app/?user=LakshayPahal&theme=tokyonight&hide_border=true&border_radius=10" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=LakshayPahal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" width="100%"> |
+![LakshayPahal's Stats](https://github-readme-stats.vercel.app/api?username=LakshayPahal&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LakshayPahal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />
 
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LakshayPahal&theme=darkhub&no-frame=true&column=7&row=1" alt="Lakshay's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LakshayPahal&theme=darkhub&no-frame=true&column=7&row=1" alt="Kartishh's Trophies" />
   </a>
 </p>
 
 </div>
+
 
 ---
 
