@@ -17,7 +17,7 @@
 
 ### Connect with me:  
 
-[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/lakshaypahalins/)
+[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/lakshaypahal/)
 [<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/l.a.k.sh.a.y/)
 
 
