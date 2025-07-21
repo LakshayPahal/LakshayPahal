@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://i.pinimg.com/originals/a4/b7/3c/a4b73c44fe3316d72f23b65593c683b5.gif" alt="Night Time Coding GIF" /> 
+  <img src="https://github.com/LakshayPahal/LakshayPahal/blob/main/nightlife_banner.gif" alt="Night Time Coding GIF" /> 
 </p>
 
 <div align="center">
