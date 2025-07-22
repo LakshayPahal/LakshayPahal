@@ -90,7 +90,7 @@ I'm currently applying my skills as a **Software Development Engineer Intern at 
 <div align="center">
 
 ![LakshayPahal's Stats](https://github-readme-stats.vercel.app/api?username=LakshayPahal&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api?username=LakshayPahal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=LakshayPahal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />-->
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
